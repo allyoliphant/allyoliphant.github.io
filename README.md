@@ -1,8 +1,17 @@
-## Welcome to Ally Oliphant's Page
+#Welcome to Ally Oliphant's Page
 
-### Example Code
+###Current classes
 
-Hello World
+* CS 361 Intro to Theory of Computation
+* CSHU 250 Intro to Version Control
+* ECE 230/L Digital Systems and Lab
+* MATH 301 Intro to Linear Alegrbra
+* VIP 200 VR
+
+
+###Example Code
+
+#####Hello World
 
 ```markdown
 //Hello World
