@@ -1,6 +1,6 @@
-#Welcome to Ally Oliphant's Page
+# Welcome to Ally Oliphant's Page
 
-###Current classes
+### Current classes
 
 * CS 361 Intro to Theory of Computation
 * CSHU 250 Intro to Version Control
@@ -9,9 +9,9 @@
 * VIP 200 VR
 
 
-###Example Code
+### Example Code
 
-#####Hello World
+##### Hello World
 
 ```markdown
 //Hello World
